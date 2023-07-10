@@ -504,10 +504,12 @@ iframe{
 
 #milestones-top{
     display:flex;
+    flex:1;
 }
 
 #milestones-bottom{
     display:flex;
+    flex:1;
 }
 
 .milestones-sub-cont{
